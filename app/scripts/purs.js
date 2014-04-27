@@ -711,7 +711,7 @@ var PS = PS || {};
 PS.Main = (function () {
     "use strict";
     var Debug_Trace = PS.Debug_Trace;
-    var main = Debug_Trace.trace("Hello, World!");
+    var main = Debug_Trace.trace("Hello, Worldy!");
     return {
         main: main
     };
